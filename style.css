@@ -1,0 +1,21 @@
+canvas {
+  border: solid 1px #ccc;
+  padding: 5px;
+}
+
+.section {
+  float: left;
+  position: relative;
+}
+
+#game_over {
+  position: absolute;
+  left: 150px;
+  top: 100px;
+}
+
+#fight {
+  position: absolute;
+  left: 150px;
+  top: 100px;
+}
